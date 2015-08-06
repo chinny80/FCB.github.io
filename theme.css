@@ -117,12 +117,12 @@ body {
 
 #account-header:hover
 {
-    background-color: #rgb(30, 8, 62);
+    background-color: theme.css;
 }
 
 #account-header.selected
 {
-    background-color: #rgb(30, 8, 62);
+    background-color: theme.css;
 }
 
 #account-details
@@ -130,7 +130,7 @@ body {
     font-size: 12px;
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
     line-height: 16px;
-    background-color: #rgb(30, 8, 62);
+    background-color: theme.css;
 }
 
 #account-details .account-title
