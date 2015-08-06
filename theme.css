@@ -69,7 +69,7 @@ body {
     background: #494432; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #7b7354 0%, #29261c 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#7b7354), color-stop(100%,#29261c)); /* Chrome,Safari4+ */
-    background: -webkit-radial-gradient(center, ellipse cover,  #7b7354 0%,#29261c 100%); /* Chrome10+,Safari5.1+ */
+    background: -webkit-radial-gradient(center, ellipse cover,  #A71313 0%,#29261c 100%); /* Chrome10+,Safari5.1+ */
     background: -o-radial-gradient(center, ellipse cover,  #7b7354 0%,#29261c 100%); /* Opera 12+ */
     background: -ms-radial-gradient(center, ellipse cover,  #7b7354 0%,#29261c 100%); /* IE10+ */
     background: radial-gradient(center, ellipse cover,  #7b7354 0%,#29261c 100%); /* W3C */
@@ -77,7 +77,7 @@ body {
 
 .navigation a {
     text-decoration: none;
-    color: #fff;
+    color: #220C5F;
 }
 
 .navigation a:hover  {
@@ -112,7 +112,7 @@ body {
 
 #account-header
 {
-    color: #edf2fd;
+    color: #220C5F;
 }
 
 #account-header:hover
@@ -146,7 +146,7 @@ body {
 }
 
 #account-details .alert a {
-    color: #ff771c;
+    color: #220C5F;
     text-shadow: -1px 1px 2px black;
 }
 
@@ -190,12 +190,12 @@ body {
 }
 
 a {
-    color: #e5c40f;
+    color: #220C5F;
     text-decoration: none;
 }
 
 a.highlighted {
-    color: #E68910;
+    color: #220C5F;
 }
 
 a.info-link {
@@ -205,7 +205,7 @@ a.info-link {
 
 a:focus,
 a:hover {
-    color: #fff;
+    color: #220C5F;
 }
 
 h1,
@@ -213,7 +213,7 @@ h2,
 h3 {
     font-family: KnightsQuestRegular;
     font-weight: 200;
-    color: #fff;
+    color: #220C5F;
     -moz-text-shadow: -1px 1px 2px #000;
     -webkit-text-shadow: -1px 1px 2px #000;
     text-shadow: -1px 1px 2px #000;
@@ -226,7 +226,7 @@ h3 {
 }
 
 .report-this {
-    color: #c4a112;
+    color: #220C5F;
     background-color: #rgb(30, 8, 62);
     border-bottom-left-radius: 8px 8px;
     -moz-border-radius-bottomleft: 8px 8px;
@@ -302,11 +302,11 @@ h3 {
 .lobby-panel h1 {
     font-size: 40px;
     line-height: 40px;
-    color: #EBE8CD;
+    color: #220C5F;
 }
 
 .lobby-panel h1 a:hover {
-    color: #fff;
+    color: #220C5F;
 }
 
 .divider {
@@ -362,11 +362,11 @@ h3 {
 }
 
 .good {
-    color: #90ee90;
+    color: #220C5F;
 }
 
 .bad {
-    color: #EC7566;
+    color: #220C5F;
 }
 
 .message {
@@ -412,7 +412,7 @@ h3 {
 
 .bad.message
 {
-    color: #FFFCF7;
+    color: #220C5F;
     -moz-text-shadow: -1px 1px 2px #331100, 1px -1px 2px #331100;
     -webkit-text-shadow: -1px 1px 2px #331100, 1px -1px 2px #331100;
     text-shadow: -1px 1px 2px #331100, 1px -1px 1px #331100;
@@ -435,7 +435,7 @@ h3 {
 
 .info.message
 {
-    color: #FFFCF7;
+    color: #220C5F;
     -moz-text-shadow: -1px 1px 2px #362301, 1px -1px 2px #362301;
     -webkit-text-shadow: -1px 1px 2px #362301, 1px -1px 2px #362301;
     text-shadow: -1px 1px 2px #362301, 1px -1px 1px #362301;
@@ -469,15 +469,15 @@ h3 {
 }
 
 .advice-message {
-    color: #a5d387;
+    color: #220C5F;
 }
 
 .warning {
-    color: #e55700;
+    color: #220C5F;
 }
 
 .error {
-    color: #e55700;
+    color: #220C5F;
 }
 
 #game-navigation .current-date {
@@ -600,7 +600,7 @@ h3 {
     font-weight: lighter;
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
     text-align: right;
-    color: #a9a9a9;
+    color: #220C5F;
     -moz-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
     -webkit-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
     text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
@@ -621,11 +621,11 @@ h3 {
 
 
 #resource-bar .positive {
-    color: #8FA94A;
+    color: #220C5F;
 }
 
 #resource-bar .negative {
-    color: #d0aeae;
+    color: #220C5F;
 }
 
 .game-content form,
@@ -646,7 +646,7 @@ h3 {
     box-shadow: inset 0px 0px 6px #000,
                 inset -3px 3px 3px 2px #545454;
 
-    color: #fff;
+    color: #220C5F;
     -moz-text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
     -webkit-text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
     text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
@@ -663,7 +663,7 @@ h3 {
 
 .game-content h3 {
     font-size: 24px;
-    color: #fff;
+    color: #220C5F;
     -moz-text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
     -webkit-text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
     text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
@@ -692,7 +692,7 @@ h3 {
 }
 
 form ul.errorlist {
-    color: #e26f80;
+    color: #220C5F;
 }
 
 .game-content form.change-kingdom {
@@ -709,7 +709,7 @@ form ul.errorlist {
 
 .game-content form.change-kingdom .change-kingdom-form {
     font-size: 30px;
-    color: #a9a9a9;
+    color: #220C5F;
     -moz-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
     -webkit-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
     text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
@@ -743,7 +743,7 @@ form input[type=password] {
     -webkit-box-shadow: inset 0px 0px 4px #7c4a14;
     box-shadow: inset 0px 0px 6px #000;
 
-    color: #fff;
+    color: #220C5F;
     background: #3a3830; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #3a3830 0%, #23221f 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#3a3830), color-stop(100%,#23221f)); /* Chrome,Safari4+ */
@@ -799,7 +799,7 @@ form input[type=submit],
     background: -ms-radial-gradient(center, ellipse cover,  #E5C40F  0%,#7c551a 100%); /* IE10+ */
     background: radial-gradient(center, ellipse cover,  #E5C40F  0%,#7c551a 100%); /* W3C */
 
-    color: #fff;
+    color: #220C5F;
 }
 
 form input[type=submit]:hover,
@@ -1000,7 +1000,7 @@ td.news-province-modification {
 
 .dip-status
 {
-    color: #000;
+    color: #220C5F;
 }
 
 .dip-status-NORMAL
@@ -1045,7 +1045,7 @@ td.news-province-modification {
 }
 
 #id_taunt_top_image {
-    color: white;
+    color: #220C5F;
 }
 
 /* Province profile page
@@ -1104,7 +1104,7 @@ td.news-province-modification {
     background: -ms-linear-gradient(top,  #908661 0%,#c4bea9 15%,#f9f9f9 33%,#f9f9f9 65%,#c4bea9 84%,#908661 100%); /* IE10+ */
     background: linear-gradient(top,  #908661 0%,#c4bea9 15%,#f9f9f9 33%,#f9f9f9 65%,#c4bea9 84%,#908661 100%); /* W3C */
 
-    color: #000;
+    color: #220C5F;
 
 }
 
@@ -1132,7 +1132,7 @@ td.news-province-modification {
     background: -ms-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* IE10+ */
     background: linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* W3C */
 
-    color: #fff;
+    color: #220C5F;
     box-shadow: 0px 5px 3px -3px #fff;
 
 }
@@ -1323,7 +1323,7 @@ div.wysiwyg ul.toolbar li {
 }
 
 body.wysiwyg {
-    color: #fff;
+    color: #220C5F;
     background: #3a3830; /* Old browsers */
     font-size: 12px;
 }
@@ -1419,7 +1419,7 @@ body.wysiwyg {
 .campaigns .campaign-message-intro {
     font-family: KnightsQuestRegular;
     font-weight: 200;
-    color: white;
+    color: #220C5F;
     text-shadow: -1px 1px 2px black;
     font-size: 18px;
 }
