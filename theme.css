@@ -563,7 +563,7 @@ h3 {
                                 inset -1px 0px 2px #000,
                                 1px 0px 1px #fffbf1;
 
-    background: #d7d7d7; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #d7d7d7 0%, #353535 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#d7d7d7), color-stop(100%,#353535)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
