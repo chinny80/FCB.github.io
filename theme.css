@@ -28,7 +28,7 @@ FOLLOW THIS FORMAT:
 body {
     color: white;
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
-    background-color: rgb(30, 8, 62);
+    background-color: #8E0808;
 }
 
 
@@ -61,12 +61,12 @@ body {
     filter: glow(color=#252525,strength=3);
 
     /* colors */
-    border-color: #220C5F;
+    border-color: #8E0808;
     -moz-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
     -webkit-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
-    box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
+    -box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
 
-    background: #494432; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #7b7354 0%, #29261c 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#7b7354), color-stop(100%,#29261c)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient(center, ellipse cover,  #A71313 0%,#29261c 100%); /* Chrome10+,Safari5.1+ */
@@ -97,7 +97,7 @@ body {
     filter:alpha(opacity=100); /* For IE8 and earlier */
     -moz-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 4px #7c4a14, 0px 8px 10px -6px #fff;;
     -webkit-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 4px #7c4a14, 0px 8px 10px -6px #fff;;
-    box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000, 0px -8px 8px -6px #fff;
+    -box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000, 0px -8px 8px -6px #fff;
 
 }
 
@@ -141,17 +141,17 @@ body {
     border-bottom: 1px solid #29261c;
     -moz-box-shadow: 0px 2px 1px -1px #7b7354;
     -webkit-box-shadow: 0px 2px 1px -1px #7b7354;
-    box-shadow: 0px 2px 1px -1px #7b7354;
+    -box-shadow: 0px 2px 1px -1px #7b7354;
 
 }
 
 #account-details .alert a {
     color: #220C5F;
-    text-shadow: -1px 1px 2px black;
+    -text-shadow: -1px 1px 2px black;
 }
 
 #account-details a:hover {
-    box-shadow: -10px 0px 6px -6px #fff;
+    -box-shadow: -10px 0px 6px -6px #fff;
 
 }
 
@@ -160,7 +160,7 @@ body {
     border-bottom: 1px solid #29261c;
     -moz-box-shadow: 0px 2px 1px -1px #7b7354;
     -webkit-box-shadow: 0px 2px 1px -1px #7b7354;
-    box-shadow: 0px 2px 1px -1px #7b7354;
+    -box-shadow: 0px 2px 1px -1px #7b7354;
 
 }
 
@@ -169,7 +169,7 @@ body {
     border-top: 1px solid #29261c;
     -moz-box-shadow: inset 0px 2px 1px -1px #7b7354;
     -webkit-box-shadow: inset 0px 2px 1px -1px #7b7354;
-    box-shadow: inset 0px 2px 1px -1px #7b7354;
+    -box-shadow: inset 0px 2px 1px -1px #7b7354;
     font-weight: bold;
     text-align: right;
 
@@ -185,7 +185,7 @@ body {
     /* typography */
     /* colors */
     /* display, opacity and special effects */
-    box-shadow: 3px -3px 5px #191919, -10px 10px 10px #000;
+    -box-shadow: 3px -3px 5px #191919, -10px 10px 10px #000;
 
 }
 
@@ -216,7 +216,7 @@ h3 {
     color: #220C5F;
     -moz-text-shadow: -1px 1px 2px #000;
     -webkit-text-shadow: -1px 1px 2px #000;
-    text-shadow: -1px 1px 2px #000;
+    -text-shadow: -1px 1px 2px #000;
     filter: glow(color=#252525,strength=3);
 }
 
@@ -227,14 +227,14 @@ h3 {
 
 .report-this {
     color: #220C5F;
-    background-color: #rgb(30, 8, 62);
+    background-color: #8E0808;
     border-bottom-left-radius: 8px 8px;
     -moz-border-radius-bottomleft: 8px 8px;
 
 
     -moz-box-shadow: 0px 3px 4px #000;
     -webkit-box-shadow: 0px 3px 4px #000;
-    box-shadow: 0px 3px 4px #000;
+    -box-shadow: 0px 3px 4px #000;
     /* For IE 8 */
     -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=180, Color='#000000')";
     /* For IE 5.5 - 7 */
@@ -244,19 +244,19 @@ h3 {
 
 .report-this:hover {
     color: #c4a112;
-    background-color: #rgb(30, 8, 62);
+    background-color: #8E0808;
 }
 
 .reported-content {
     border: 2px inset #616161;
-    background-color: #rgb(30, 8, 62);
+    background-color: #8E0808;
 }
 
 .overlay
 {
-    background-color: #rgb(30, 8, 62);
+    background-color: #8E0808;
     border:1px solid #666;
-    box-shadow:0 0 90px 5px #000;
+    -box-shadow:0 0 90px 5px #000;
     -moz-box-shadow:0 0 90px 5px #000;
     -webkit-box-shadow: 0 0 90px #000;
 
@@ -282,15 +282,15 @@ h3 {
     /* typography */
     -moz-text-shadow: -1px 1px 2px #000, 1px -1px 2px #ffcf68;
     -webkit-text-shadow: -1px 1px 2px #000, 1px -1px 2px #ffcf68;
-    text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
+    -text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
 
     /* colors */
     border-color: #220C5F;
     -moz-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
     -webkit-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
-    box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
+    -box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
 
-    background: #494432; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #7b7354 0%, #29261c 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#7b7354), color-stop(100%,#29261c)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient(center, ellipse cover,  #7b7354 0%,#29261c 100%); /* Chrome10+,Safari5.1+ */
@@ -392,15 +392,15 @@ h3 {
     color: #fefff7;
     -moz-text-shadow: -1px 1px 2px #363a19, 1px -1px 2px #363a19;
     -webkit-text-shadow: -1px 1px 2px #363a19, 1px -1px 2px #363a19;
-    text-shadow: -1px 1px 2px #363a19, 1px -1px 1px #363a19;
+    -text-shadow: -1px 1px 2px #363a19, 1px -1px 1px #363a19;
 
     /* colors */
     border-color: #220C5F;
     -moz-box-shadow: 1px -1px 1px 0px #cbd3a9 , -1px 1px 2px #363a19, inset 0px 0px 10px #000;
     -webkit-box-shadow: 1px -1px 1px 0px #cbd3a9 , -1px 1px 2px #363a19, inset 0px 0px 10px #000;
-    box-shadow: 1px -1px 1px 0px #cbd3a9 , -1px 1px 2px #363a19, inset 0px 0px 10px #000;
+    -box-shadow: 1px -1px 1px 0px #cbd3a9 , -1px 1px 2px #363a19, inset 0px 0px 10px #000;
 
-    background: #718d16; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #789316 0%, #5d7a19 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#789316 ), color-stop(100%,#5d7a19)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient(center, ellipse cover,  #789316  0%,#5d7a19 100%); /* Chrome10+,Safari5.1+ */
@@ -415,13 +415,13 @@ h3 {
     color: #220C5F;
     -moz-text-shadow: -1px 1px 2px #331100, 1px -1px 2px #331100;
     -webkit-text-shadow: -1px 1px 2px #331100, 1px -1px 2px #331100;
-    text-shadow: -1px 1px 2px #331100, 1px -1px 1px #331100;
+    -text-shadow: -1px 1px 2px #331100, 1px -1px 1px #331100;
 
     /* colors */
     border-color: #220C5F;
     -moz-box-shadow: 1px -1px 1px 0px #D3AEA9 , -1px 1px 2px #331100, inset 0px 0px 10px #000;
     -webkit-box-shadow: 1px -1px 1px 0px #D3AEA9 , -1px 1px 2px #331100, inset 0px 0px 10px #000;
-    box-shadow: 1px -1px 1px 0px #D3AEA9 , -1px 1px 2px #331100, inset 0px 0px 10px #000;
+    -box-shadow: 1px -1px 1px 0px #D3AEA9 , -1px 1px 2px #331100, inset 0px 0px 10px #000;
 
     background: #521802; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover, #641E04 0%, #401100 100%); /* FF3.6+ */
@@ -438,13 +438,13 @@ h3 {
     color: #220C5F;
     -moz-text-shadow: -1px 1px 2px #362301, 1px -1px 2px #362301;
     -webkit-text-shadow: -1px 1px 2px #362301, 1px -1px 2px #362301;
-    text-shadow: -1px 1px 2px #362301, 1px -1px 1px #362301;
+    -text-shadow: -1px 1px 2px #362301, 1px -1px 1px #362301;
 
     /* colors */
     border-color: #220C5F;
     -moz-box-shadow: 1px -1px 1px 0px #D4C7AF , -1px 1px 2px #362301, inset 0px 0px 10px #000;
     -webkit-box-shadow: 1px -1px 1px 0px #D4C7AF , -1px 1px 2px #362301, inset 0px 0px 10px #000;
-    box-shadow: 1px -1px 1px 0px #D4C7AF , -1px 1px 2px #362301, inset 0px 0px 10px #000;
+    -box-shadow: 1px -1px 1px 0px #D4C7AF , -1px 1px 2px #362301, inset 0px 0px 10px #000;
 
     background: #D09734; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover, #D09734 0%, #594118 100%); /* FF3.6+ */
@@ -486,7 +486,7 @@ h3 {
 
     font-family: KnightsQuestRegular;
     font-size: 16px;
-    text-shadow: -1px 1px 2px black, 1px -1px 1px #FFCF68;
+    -text-shadow: -1px 1px 2px black, 1px -1px 1px #FFCF68;
 
     /* border styling */
     border: 2px solid;
@@ -498,7 +498,7 @@ h3 {
     border-color: #555555;
     -moz-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
     -webkit-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
-    box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
+    -box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
 
     background: #3a3830; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #3a3830 0%, #23221f 100%); /* FF3.6+ */
@@ -514,7 +514,7 @@ h3 {
 }
 
 #game-navigation a:hover {
-    box-shadow: -10px 0px 6px -6px #fff;
+    -box-shadow: -10px 0px 6px -6px #fff;
 
 }
 
@@ -534,7 +534,7 @@ h3 {
 
     -moz-text-shadow: -1px 1px 2px #000, 1px -1px 2px #ffcf68;
     -webkit-text-shadow: -1px 1px 2px #000, 1px -1px 2px #ffcf68;
-    text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
+    -text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
 
     /* colors */
     border-color: #220C5F;
@@ -554,7 +554,7 @@ h3 {
                                         inset 1px 0px 1px #fffbf1,
                                         inset -1px 0px 2px #000,
                                         1px 0px 1px #fffbf1;
-    box-shadow:     0px -1px 1px #fffbf1,
+    -box-shadow:     0px -1px 1px #fffbf1,
                                 inset 0px 1px 2px #000,
                                 inset 0px -1px 1px #fffbf1,
                                 0px 1px 1px #000,
@@ -603,7 +603,7 @@ h3 {
     color: #220C5F;
     -moz-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
     -webkit-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
-    text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
+    -text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
     filter: glow(color=#252525,strength=3);
 }
 
@@ -643,13 +643,13 @@ h3 {
                      inset -3px 3px 3px 2px #545454;
     -webkit-box-shadow: inset 0px 0px 6px #000,
                         inset -3px 3px 3px  2px #545454;
-    box-shadow: inset 0px 0px 6px #000,
+    -box-shadow: inset 0px 0px 6px #000,
                 inset -3px 3px 3px 2px #545454;
 
     color: #220C5F;
     -moz-text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
     -webkit-text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
-    text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
+    -text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
 
     background: rgb(86, 83, 74); /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #d7d7d7 0%, #353535 100%); /* FF3.6+ */
@@ -666,7 +666,7 @@ h3 {
     color: #220C5F;
     -moz-text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
     -webkit-text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
-    text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
+    -text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
 }
 
 .game-content form {
@@ -687,7 +687,7 @@ h3 {
     border: none;
     -moz-box-shadow: none;
     -webkit-box-shadow: none;
-    box-shadow: none;
+    -box-shadow: none;
 
 }
 
@@ -712,7 +712,7 @@ form ul.errorlist {
     color: #220C5F;
     -moz-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
     -webkit-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
-    text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
+    -text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
 }
 
 .game-content form.change-kingdom.change-kingdom-target {
@@ -723,7 +723,7 @@ form ul.errorlist {
                         inset 0px 1px 2px #000;
     -webkit-box-shadow: 0px -1px 1px #fffbf1,
                         inset 0px 1px 2px #000;
-    box-shadow:         0px -1px 1px #fffbf1,
+    -box-shadow:         0px -1px 1px #fffbf1,
                         inset 0px 1px 2px #000;
 
 }
@@ -741,7 +741,7 @@ form input[type=password] {
 
     -moz-box-shadow: inset 0px 0px 4px #7c4a14;
     -webkit-box-shadow: inset 0px 0px 4px #7c4a14;
-    box-shadow: inset 0px 0px 6px #000;
+    -box-shadow: inset 0px 0px 6px #000;
 
     color: #220C5F;
     background: #3a3830; /* Old browsers */
@@ -783,13 +783,13 @@ form input[type=submit],
     font-weight: normal;
     -moz-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
     -webkit-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
-    text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 1px #3d2f1a;
+    -text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 1px #3d2f1a;
 
     /* colors */
     border-color: #220C5F;
     -moz-box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #3d2f1a, inset 0px 0px 10px #000;
     -webkit-box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #3d2f1a, inset 0px 0px 10px #000;
-    box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #3d2f1a, inset 0px 0px 10px #000;
+    -box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #3d2f1a, inset 0px 0px 10px #000;
 
     background: #9c7815; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #E5C40F 0%, #7c551a 100%); /* FF3.6+ */
@@ -838,7 +838,7 @@ div.uploader span.action
     text-align: left;
     -moz-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
     -webkit-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
-    text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 1px #3d2f1a;
+    -text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 1px #3d2f1a;
 }
 div.uploader span.filename,
 div.uploader span.action
@@ -855,7 +855,7 @@ div.uploader span.action
                         inset 0px 1px 2px #000;
     -webkit-box-shadow: 0px -1px 1px #fffbf1,
                         inset 0px 1px 2px #000;
-    box-shadow:         0px -1px 1px #fffbf1,
+    -box-shadow:         0px -1px 1px #fffbf1,
                         inset 0px 1px 2px #000;
 
     text-align: left;
@@ -909,7 +909,7 @@ div.uploader span.action
     border-top: none;
     -moz-box-shadow: none;
     -webkit-box-shadow: none;
-    box-shadow: none;
+    -box-shadow: none;
 }
 
 .game-content form.change-kingdom #royal-commands table tbody td,
@@ -1089,12 +1089,12 @@ td.news-province-modification {
     font-family: KnightsQuestRegular;
     -moz-text-shadow: 1px -1px 1px #908661;
     -webkit-text-shadow: 1px -1px 1px #908661;
-    text-shadow: 1px -1px 1px #908661;
+    -text-shadow: 1px -1px 1px #908661;
     filter: glow(color=#252525,strength=3);
 
     -moz-box-shadow: 1px 1px 1px 1px #6d664a;
     -webkit-box-shadow: 1px 1px 1px 1px #6d664a;
-    box-shadow: 1px 1px 1px 1px #6d664a;
+    -box-shadow: 1px 1px 1px 1px #6d664a;
 
     background: #c4bea9; /* Old browsers */
     background: -moz-linear-gradient(top,  #908661 0%, #c4bea9 15%, #f9f9f9 33%, #f9f9f9 65%, #c4bea9 84%, #908661 100%); /* FF3.6+ */
@@ -1122,7 +1122,7 @@ td.news-province-modification {
 {
     -moz-text-shadow: none;
     -webkit-text-shadow: none;
-    text-shadow: none;
+    -text-shadow: none;
 
     background: #29261c; /* Old browsers */
     background: -moz-linear-gradient(top,  #29261c 0%, #494432 15%, #7b7354 45%, #7b7354 55%, #494432 84%, #29261c 100%); /* FF3.6+ */
@@ -1133,7 +1133,7 @@ td.news-province-modification {
     background: linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* W3C */
 
     color: #220C5F;
-    box-shadow: 0px 5px 3px -3px #fff;
+    -box-shadow: 0px 5px 3px -3px #fff;
 
 }
 
@@ -1164,7 +1164,7 @@ td.news-province-modification {
                                         inset 1px 0px 1px #fffbf1,
                                         inset -1px 0px 2px #000,
                                         1px 0px 1px #fffbf1;
-    box-shadow:     0px -1px 1px #fffbf1,
+    -box-shadow:     0px -1px 1px #fffbf1,
                                 inset 0px 1px 2px #000,
                                 inset 0px -1px 1px #fffbf1,
                                 0px 1px 1px #000,
@@ -1188,7 +1188,7 @@ td.news-province-modification {
                                     inset 0px 1px 2px #000,
                                     inset 0px -1px 1px #fffbf1,
                                     0px 1px 1px #000;
-    box-shadow:         0px -1px 1px #fffbf1,
+    -box-shadow:         0px -1px 1px #fffbf1,
                                     inset 0px 1px 2px #000,
                                     inset 0px -1px 1px #fffbf1,
                                     0px 1px 1px #000;
@@ -1206,7 +1206,7 @@ td.news-province-modification {
 
     -moz-text-shadow: -1px 1px 2px #000, 1px -1px 2px #ffcf68;
     -webkit-text-shadow: -1px 1px 2px #000, 1px -1px 2px #ffcf68;
-    text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
+    -text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
 
     background: #3a3830; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #3a3830 0%, #23221f 100%); /* FF3.6+ */
@@ -1352,7 +1352,7 @@ body.wysiwyg {
 }
 
 #bookmark-details a:hover {
-    box-shadow: -10px 0px 6px -6px #fff;
+    -box-shadow: -10px 0px 6px -6px #fff;
 }
 
 #bookmark-details #bookmarks {
@@ -1360,7 +1360,7 @@ body.wysiwyg {
     border-bottom: 1px solid #29261c;
     -moz-box-shadow: 0px 2px 1px -1px #7b7354;
     -webkit-box-shadow: 0px 2px 1px -1px #7b7354;
-    box-shadow: 0px 2px 1px -1px #7b7354;
+    -box-shadow: 0px 2px 1px -1px #7b7354;
 
 }
 
@@ -1420,7 +1420,7 @@ body.wysiwyg {
     font-family: KnightsQuestRegular;
     font-weight: 200;
     color: #220C5F;
-    text-shadow: -1px 1px 2px black;
+    -text-shadow: -1px 1px 2px black;
     font-size: 18px;
 }
 
@@ -1439,7 +1439,7 @@ body.wysiwyg {
 
 td#inline-hostility-meter {
     text-align: left;
-    text-shadow: none;
+    -text-shadow: none;
     font-weight: normal;
 }
 
