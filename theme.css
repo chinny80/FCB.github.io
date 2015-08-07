@@ -894,11 +894,6 @@ div.uploader span.action
 .game-content form tbody tr {
     border: none;
 }
-.game-content form tbody tr:nth-child(even) {
-    /* display, opacity and special effects*/
-    background: transparent;
-
-}
 
 
 .game-content form.change-kingdom #royal-commands {
