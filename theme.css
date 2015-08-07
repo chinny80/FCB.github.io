@@ -67,12 +67,12 @@ body {
     -box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
 
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #8E0808); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#7b7354), color-stop(100%,#29261c)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #7b7354 0%,#29261c 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #7b7354 0%,#29261c 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #7b7354 0%,#29261c 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 }
 
 .navigation a {
@@ -291,12 +291,12 @@ h3 {
     -box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
 
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #7b7354 0%, #29261c 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#7b7354), color-stop(100%,#29261c)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #7b7354 0%,#29261c 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #7b7354 0%,#29261c 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #7b7354 0%,#29261c 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 }
 
 .lobby-panel h1 {
@@ -401,12 +401,12 @@ h3 {
     -box-shadow: 1px -1px 1px 0px #cbd3a9 , -1px 1px 2px #363a19, inset 0px 0px 10px #000;
 
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #789316 0%, #5d7a19 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#789316 ), color-stop(100%,#5d7a19)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #789316  0%,#5d7a19 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #789316  0%,#5d7a19 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #789316  0%,#5d7a19 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 
 }
 
@@ -424,12 +424,12 @@ h3 {
     -box-shadow: 1px -1px 1px 0px #D3AEA9 , -1px 1px 2px #331100, inset 0px 0px 10px #000;
 
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover, #641E04 0%, #401100 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#641E04 ), color-stop(100%,#401100)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #641E04  0%,#401100 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #641E04  0%,#401100 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #641E04  0%,#401100 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 
 }
 
@@ -447,13 +447,12 @@ h3 {
     -box-shadow: 1px -1px 1px 0px #D4C7AF , -1px 1px 2px #362301, inset 0px 0px 10px #000;
 
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover, #D09734 0%, #594118 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#D09734 ), color-stop(100%,#594118)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #D09734  0%,#594118 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #D09734  0%,#594118 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #D09734  0%,#594118 100%); /* W3C */
-
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 }
 
 
@@ -501,12 +500,12 @@ h3 {
     -box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
 
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #3a3830 0%, #23221f 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#3a3830), color-stop(100%,#23221f)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #3a3830 0%,#23221f 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #3a3830 0%,#23221f 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #3a3830 0%,#23221f 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 }
 
 #game-navigation a {
@@ -564,23 +563,23 @@ h3 {
                                 1px 0px 1px #fffbf1;
 
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #d7d7d7 0%, #353535 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#d7d7d7), color-stop(100%,#353535)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #d7d7d7 0%,#353535 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #d7d7d7 0%,#353535 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #d7d7d7 0%,#353535 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 
 }
 
 #resource-bar thead {
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #3a3830 0%, #23221f 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#3a3830), color-stop(100%,#23221f)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #3a3830 0%,#23221f 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #3a3830 0%,#23221f 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #3a3830 0%,#23221f 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 }
 
 #resource-bar thead th {
@@ -652,12 +651,12 @@ h3 {
     -text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
 
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #d7d7d7 0%, #353535 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#d7d7d7), color-stop(100%,#353535)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #d7d7d7 0%,#353535 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #d7d7d7 0%,#353535 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #d7d7d7 0%,#353535 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 
 }
 
@@ -672,13 +671,13 @@ h3 {
 .game-content form {
     font-size: 12px;
     font-weight: bolder;
-    background: rgb(86, 83, 74); /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #706e62 0%, #353535 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#898989), color-stop(100%,#353535)); /* Chrome,Safari4+ */
+    background: #8E0808; /* Old browsers */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #706e62 0%,#353535 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #706e62 0%,#353535 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #706e62 0%,#353535 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 }
 
 .game-content form.no-visible-fields {
@@ -745,12 +744,12 @@ form input[type=password] {
 
     color: #220C5F;
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #3a3830 0%, #23221f 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#3a3830), color-stop(100%,#23221f)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #3a3830 0%,#23221f 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #3a3830 0%,#23221f 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #3a3830 0%,#23221f 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 
 
 }
@@ -792,12 +791,12 @@ form input[type=submit],
     -box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #3d2f1a, inset 0px 0px 10px #000;
 
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #E5C40F 0%, #7c551a 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#E5C40F ), color-stop(100%,#7c551a)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #E5C40F  0%,#7c551a 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #E5C40F  0%,#7c551a 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #E5C40F  0%,#7c551a 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 
     color: #220C5F;
 }
@@ -805,25 +804,25 @@ form input[type=submit],
 form input[type=submit]:hover,
 .button-link:hover {
     /* colors */
-    background: #8E0808;
-    background: -moz-radial-gradient(center, ellipse cover,  #ead464 0%, #775f3a 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#ead464 ), color-stop(100%,#775f3a)); /* Chrome,Safari4+ */
+    background: #8E0808; /* Old browsers */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
     background: -o-radial-gradient#8E0808; /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #ead464  0%,#775f3a 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #ead464  0%,#775f3a 100%); /* W3C */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 }
 
 form input[type=submit]:active,
 .button-link:active {
     /* colors */
-    background: #8E0808;
-    background: -moz-radial-gradient(center, ellipse cover,  #fceea6 0%, #9b7e52 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#fceea6 ), color-stop(100%,#9b7e52)); /* Chrome,Safari4+ */
+    background: #8E0808; /* Old browsers */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #fceea6  0%,#9b7e52 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #fceea6  0%,#9b7e52 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #fceea6  0%,#9b7e52 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 }
 
 div.selector span,
@@ -1070,12 +1069,12 @@ td.news-province-modification {
     border-top: 2px solid #6b6348;
     border-bottom: 2px solid #6b6348;
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #d4caa8 0%, #45402e 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#d4caa8), color-stop(100%,#45402e)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #d4caa8 0%,#45402e 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #d4caa8 0%,#45402e 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #d4caa8 0%,#45402e 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 }
 
 .game-header h1
@@ -1097,12 +1096,12 @@ td.news-province-modification {
     -box-shadow: 1px 1px 1px 1px #6d664a;
 
     background: #8E0808; /* Old browsers */
-    background: -moz-linear-gradient(top,  #908661 0%, #c4bea9 15%, #f9f9f9 33%, #f9f9f9 65%, #c4bea9 84%, #908661 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#908661), color-stop(15%,#c4bea9), color-stop(33%,#f9f9f9), color-stop(65%,#f9f9f9), color-stop(84%,#c4bea9), color-stop(100%,#908661)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  #908661 0%,#c4bea9 15%,#f9f9f9 33%,#f9f9f9 65%,#c4bea9 84%,#908661 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  #908661 0%,#c4bea9 15%,#f9f9f9 33%,#f9f9f9 65%,#c4bea9 84%,#908661 100%); /* IE10+ */
-    background: linear-gradient(top,  #908661 0%,#c4bea9 15%,#f9f9f9 33%,#f9f9f9 65%,#c4bea9 84%,#908661 100%); /* W3C */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
+    background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 
     color: #220C5F;
 
@@ -1110,12 +1109,12 @@ td.news-province-modification {
 
 .game-header a h1 {
     background: #8E0808; /* Old browsers */
-    background: -moz-linear-gradient(top,  #29261c 0%, #494432 15%, #7b7354 45%, #7b7354 55%, #494432 84%, #29261c 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#29261c), color-stop(15%,#494432), color-stop(45%,#7b7354), color-stop(55%,#7b7354), color-stop(84%,#494432), color-stop(100%,#29261c)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* IE10+ */
-    background: linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* W3C */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
+    background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 }
 
 .game-header a h1:hover
@@ -1125,12 +1124,12 @@ td.news-province-modification {
     -text-shadow: none;
 
     background: #8E0808; /* Old browsers */
-    background: -moz-linear-gradient(top,  #29261c 0%, #494432 15%, #7b7354 45%, #7b7354 55%, #494432 84%, #29261c 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#29261c), color-stop(15%,#494432), color-stop(45%,#7b7354), color-stop(55%,#7b7354), color-stop(84%,#494432), color-stop(100%,#29261c)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* IE10+ */
-    background: linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* W3C */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
+    background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 
     color: #220C5F;
     -box-shadow: 0px 5px 3px -3px #fff;
@@ -1209,12 +1208,12 @@ td.news-province-modification {
     -text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
 
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #3a3830 0%, #23221f 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#3a3830), color-stop(100%,#23221f)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #3a3830 0%,#23221f 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #3a3830 0%,#23221f 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #3a3830 0%,#23221f 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 }
 
 .game-content tbody th {
@@ -1283,12 +1282,12 @@ td.news-province-modification {
 /* GAME PREFERENCES */
 .game-content div.preference-box {
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #706e62 0%, #353535 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#898989), color-stop(100%,#353535)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #706e62 0%,#353535 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #706e62 0%,#353535 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #706e62 0%,#353535 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 }
 
 .game-content div.preference-box.disabled {
@@ -1303,12 +1302,12 @@ td.news-province-modification {
 
 table.mail-view td.formatted-text {
     background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #706e62 0%, #353535 100%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#898989), color-stop(100%,#353535)); /* Chrome,Safari4+ */
+    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #706e62 0%,#353535 100%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #706e62 0%,#353535 100%); /* IE10+ */
-    background: radial-gradient(center, ellipse cover,  #706e62 0%,#353535 100%); /* W3C */
+    background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    background: -ms-radial-gradient#8E0808; /* IE10+ */
+    background: radial-gradient#8E0808; /* W3C */
 }
 
 div.wysiwyg {
