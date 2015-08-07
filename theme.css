@@ -57,11 +57,11 @@ body {
 
     -moz-text-shadow: -1px 1px 2px #000, 1px -1px 2px #ffcf68;
     -webkit-text-shadow: -1px 1px 2px #000, 1px -1px 2px #ffcf68;
-    text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
+    -text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
     filter: glow(color=#252525,strength=3);
 
     /* colors */
-    border-color: #555555;
+    border-color: #220C5F;
     -moz-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
     -webkit-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
     box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
@@ -221,7 +221,7 @@ h3 {
 }
 
 #footer {
-    color: #4d5355;
+    color: #220C5F;
     font-size: 10px;
 }
 
@@ -285,7 +285,7 @@ h3 {
     text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
 
     /* colors */
-    border-color: #rgb(30, 8, 62);
+    border-color: #220C5F;
     -moz-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
     -webkit-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
     box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
@@ -395,7 +395,7 @@ h3 {
     text-shadow: -1px 1px 2px #363a19, 1px -1px 1px #363a19;
 
     /* colors */
-    border-color: #feffea;
+    border-color: #220C5F;
     -moz-box-shadow: 1px -1px 1px 0px #cbd3a9 , -1px 1px 2px #363a19, inset 0px 0px 10px #000;
     -webkit-box-shadow: 1px -1px 1px 0px #cbd3a9 , -1px 1px 2px #363a19, inset 0px 0px 10px #000;
     box-shadow: 1px -1px 1px 0px #cbd3a9 , -1px 1px 2px #363a19, inset 0px 0px 10px #000;
@@ -418,7 +418,7 @@ h3 {
     text-shadow: -1px 1px 2px #331100, 1px -1px 1px #331100;
 
     /* colors */
-    border-color: #feffea;
+    border-color: #220C5F;
     -moz-box-shadow: 1px -1px 1px 0px #D3AEA9 , -1px 1px 2px #331100, inset 0px 0px 10px #000;
     -webkit-box-shadow: 1px -1px 1px 0px #D3AEA9 , -1px 1px 2px #331100, inset 0px 0px 10px #000;
     box-shadow: 1px -1px 1px 0px #D3AEA9 , -1px 1px 2px #331100, inset 0px 0px 10px #000;
@@ -441,7 +441,7 @@ h3 {
     text-shadow: -1px 1px 2px #362301, 1px -1px 1px #362301;
 
     /* colors */
-    border-color: #feffea;
+    border-color: #220C5F;
     -moz-box-shadow: 1px -1px 1px 0px #D4C7AF , -1px 1px 2px #362301, inset 0px 0px 10px #000;
     -webkit-box-shadow: 1px -1px 1px 0px #D4C7AF , -1px 1px 2px #362301, inset 0px 0px 10px #000;
     box-shadow: 1px -1px 1px 0px #D4C7AF , -1px 1px 2px #362301, inset 0px 0px 10px #000;
@@ -537,7 +537,7 @@ h3 {
     text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
 
     /* colors */
-    border-color: #555555;
+    border-color: #220C5F;
     -moz-box-shadow:    0px -1px 1px #fffbf1,
                                     inset 0px 1px 2px #000,
                                     inset 0px -1px 1px #fffbf1,
@@ -637,7 +637,7 @@ h3 {
     /* internal styling - padding etc. */
 
     /* colors */
-    border-color: #181818;
+    border-color: #220C5F;
 
     -moz-box-shadow: inset 0px 0px 6px #000,
                      inset -3px 3px 3px 2px #545454;
@@ -718,7 +718,7 @@ form ul.errorlist {
 .game-content form.change-kingdom.change-kingdom-target {
     border: 0px;
     border-top: 2px solid;
-    border-color: #555555;
+    border-color: #220C5F;
     -moz-box-shadow:    0px -1px 1px #fffbf1,
                         inset 0px 1px 2px #000;
     -webkit-box-shadow: 0px -1px 1px #fffbf1,
@@ -733,7 +733,7 @@ form textarea,
 form input[type=text],
 form input[type=password] {
     border-width: 1px;
-    border-color: #d7d7d7;
+    border-color: #220C5F;
     padding-left: 3px;
     font-family: KnightsQuestRegular;
     font-size: 20px;
@@ -786,7 +786,7 @@ form input[type=submit],
     text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 1px #3d2f1a;
 
     /* colors */
-    border-color: #7c551a;
+    border-color: #220C5F;
     -moz-box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #3d2f1a, inset 0px 0px 10px #000;
     -webkit-box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #3d2f1a, inset 0px 0px 10px #000;
     box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #3d2f1a, inset 0px 0px 10px #000;
@@ -849,7 +849,7 @@ div.uploader span.action
 .game-content form table {
     border: 0px;
     border-top: 2px solid;
-    border-color: #555555;
+    border-color: #220C5F;
     margin-bottom: 10px;
     -moz-box-shadow:    0px -1px 1px #fffbf1,
                         inset 0px 1px 2px #000;
@@ -1179,7 +1179,7 @@ td.news-province-modification {
     border: 0px;
     border-top: 2px solid;
     border-bottom: 2px solid;
-    border-color: #555555;
+    border-color: #220C5F;
     -moz-box-shadow:    0px -1px 1px #fffbf1,
                                     inset 0px 1px 2px #000,
                                     inset 0px -1px 1px #fffbf1,
@@ -1395,7 +1395,7 @@ body.wysiwyg {
 }
 
 .campaign-meter-level div.unknown {
-    color: #789316;
+    color: #220C5F;
 }
 
 .fails-criteria div {
