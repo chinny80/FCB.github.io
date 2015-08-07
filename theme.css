@@ -423,7 +423,7 @@ h3 {
     -webkit-box-shadow: 1px -1px 1px 0px #D3AEA9 , -1px 1px 2px #331100, inset 0px 0px 10px #000;
     -box-shadow: 1px -1px 1px 0px #D3AEA9 , -1px 1px 2px #331100, inset 0px 0px 10px #000;
 
-    background: #521802; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover, #641E04 0%, #401100 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#641E04 ), color-stop(100%,#401100)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -446,7 +446,7 @@ h3 {
     -webkit-box-shadow: 1px -1px 1px 0px #D4C7AF , -1px 1px 2px #362301, inset 0px 0px 10px #000;
     -box-shadow: 1px -1px 1px 0px #D4C7AF , -1px 1px 2px #362301, inset 0px 0px 10px #000;
 
-    background: #D09734; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover, #D09734 0%, #594118 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#D09734 ), color-stop(100%,#594118)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -574,7 +574,7 @@ h3 {
 }
 
 #resource-bar thead {
-    background: #3a3830; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #3a3830 0%, #23221f 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#3a3830), color-stop(100%,#23221f)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -651,7 +651,7 @@ h3 {
     -webkit-text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
     -text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
 
-    background: rgb(86, 83, 74); /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #d7d7d7 0%, #353535 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#d7d7d7), color-stop(100%,#353535)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -744,7 +744,7 @@ form input[type=password] {
     -box-shadow: inset 0px 0px 6px #000;
 
     color: #220C5F;
-    background: #3a3830; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #3a3830 0%, #23221f 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#3a3830), color-stop(100%,#23221f)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -791,7 +791,7 @@ form input[type=submit],
     -webkit-box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #3d2f1a, inset 0px 0px 10px #000;
     -box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #3d2f1a, inset 0px 0px 10px #000;
 
-    background: #9c7815; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #E5C40F 0%, #7c551a 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#E5C40F ), color-stop(100%,#7c551a)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -805,7 +805,7 @@ form input[type=submit],
 form input[type=submit]:hover,
 .button-link:hover {
     /* colors */
-    background: #c99a1a;
+    background: #8E0808;
     background: -moz-radial-gradient(center, ellipse cover,  #ead464 0%, #775f3a 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#ead464 ), color-stop(100%,#775f3a)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -817,7 +817,7 @@ form input[type=submit]:hover,
 form input[type=submit]:active,
 .button-link:active {
     /* colors */
-    background: #ba8500;
+    background: #8E0808;
     background: -moz-radial-gradient(center, ellipse cover,  #fceea6 0%, #9b7e52 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#fceea6 ), color-stop(100%,#9b7e52)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -1069,7 +1069,7 @@ td.news-province-modification {
     height: 30px;
     border-top: 2px solid #6b6348;
     border-bottom: 2px solid #6b6348;
-    background: #655e44; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #d4caa8 0%, #45402e 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#d4caa8), color-stop(100%,#45402e)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -1096,7 +1096,7 @@ td.news-province-modification {
     -webkit-box-shadow: 1px 1px 1px 1px #6d664a;
     -box-shadow: 1px 1px 1px 1px #6d664a;
 
-    background: #c4bea9; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-linear-gradient(top,  #908661 0%, #c4bea9 15%, #f9f9f9 33%, #f9f9f9 65%, #c4bea9 84%, #908661 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#908661), color-stop(15%,#c4bea9), color-stop(33%,#f9f9f9), color-stop(65%,#f9f9f9), color-stop(84%,#c4bea9), color-stop(100%,#908661)); /* Chrome,Safari4+ */
     background: -webkit-linear-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -1109,7 +1109,7 @@ td.news-province-modification {
 }
 
 .game-header a h1 {
-    background: #494432; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-linear-gradient(top,  #29261c 0%, #494432 15%, #7b7354 45%, #7b7354 55%, #494432 84%, #29261c 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#29261c), color-stop(15%,#494432), color-stop(45%,#7b7354), color-stop(55%,#7b7354), color-stop(84%,#494432), color-stop(100%,#29261c)); /* Chrome,Safari4+ */
     background: -webkit-linear-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -1124,7 +1124,7 @@ td.news-province-modification {
     -webkit-text-shadow: none;
     -text-shadow: none;
 
-    background: #29261c; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-linear-gradient(top,  #29261c 0%, #494432 15%, #7b7354 45%, #7b7354 55%, #494432 84%, #29261c 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#29261c), color-stop(15%,#494432), color-stop(45%,#7b7354), color-stop(55%,#7b7354), color-stop(84%,#494432), color-stop(100%,#29261c)); /* Chrome,Safari4+ */
     background: -webkit-linear-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -1208,7 +1208,7 @@ td.news-province-modification {
     -webkit-text-shadow: -1px 1px 2px #000, 1px -1px 2px #ffcf68;
     -text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
 
-    background: #3a3830; /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #3a3830 0%, #23221f 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#3a3830), color-stop(100%,#23221f)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -1240,8 +1240,8 @@ td.news-province-modification {
 
 .game-content tbody tr:nth-child(even) {
     /* display, opacity and special effects*/
-    background: rgb(48, 48, 48);
-    background: rgba(48, 48, 48, 0.6);
+    background: #8E0808;
+    background: #8E0808;
 
 }
 
@@ -1282,7 +1282,7 @@ td.news-province-modification {
 
 /* GAME PREFERENCES */
 .game-content div.preference-box {
-    background: rgb(86, 83, 74); /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #706e62 0%, #353535 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#898989), color-stop(100%,#353535)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -1302,7 +1302,7 @@ td.news-province-modification {
 }
 
 table.mail-view td.formatted-text {
-    background: rgb(86, 83, 74); /* Old browsers */
+    background: #8E0808; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #706e62 0%, #353535 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#898989), color-stop(100%,#353535)); /* Chrome,Safari4+ */
     background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
@@ -1314,7 +1314,7 @@ table.mail-view td.formatted-text {
 div.wysiwyg {
     border: 1px solid #999;
     padding: 5px;
-    background: rgb(86, 83, 74);
+    background: #8E0808;
 }
 
 div.wysiwyg ul.toolbar li {
