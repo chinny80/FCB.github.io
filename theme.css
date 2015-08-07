@@ -895,8 +895,8 @@ div.uploader span.action
 }
 .game-content form tbody tr:nth-child(even) {
     /* display, opacity and special effects*/
-    background: rgb(48, 48, 48);
-    background: rgba(48, 48, 48, 0.1);
+    background: #8E0808;
+    background: #8E0808;
 
 }
 
