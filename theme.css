@@ -65,13 +65,13 @@ body {
     -webkit-box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
     -box-shadow: 1px -1px 2px 0px #fffbf1, inset 0px 0px 6px #000;
 
-    background: #8E0808; /* Old browsers */
-    background: -moz-radial-gradient#8E0808; /* FF3.6+ */
-    background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
-    background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient#8E0808; /* Opera 12+ */
-    background: -ms-radial-gradient#8E0808; /* IE10+ */
-    background: radial-gradient#8E0808; /* W3C */
+    -background: #8E0808; /* Old browsers */
+    -background: -moz-radial-gradient#8E0808; /* FF3.6+ */
+    -background: -webkit-gradient#8E0808; /* Chrome,Safari4+ */
+    -background: -webkit-radial-gradient#8E0808; /* Chrome10+,Safari5.1+ */
+    -background: -o-radial-gradient#8E0808; /* Opera 12+ */
+    -background: -ms-radial-gradient#8E0808; /* IE10+ */
+    -background: radial-gradient#8E0808; /* W3C */
 }
 
 .navigation a {
