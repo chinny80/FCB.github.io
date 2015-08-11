@@ -1317,7 +1317,7 @@ div.wysiwyg ul.toolbar li {
 }
 
 body.wysiwyg {
-    color: #220C5F;
+    /* color: #220C5F; */
     background: #3a3830; /* Old browsers */
     font-size: 12px;
 }
